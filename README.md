@@ -4,4 +4,4 @@
 - 🔬 Undergraduate Research Assistant at the [NSF Spatiotemporal Innovation Center](https://www.stcenter.net/).
 - 🚀 Interested in **LLMs, NLP, GIS, Reinforcement Learning**.
 - 📫 Contact: [first name].[last name]@yahoo.com
-- 📄 More: [LinkedIn](www.linkedin.com/in/yahya-masri)
+- 📄 More: [LinkedIn](https://www.linkedin.com/in/yahya-masri)
