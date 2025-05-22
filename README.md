@@ -8,6 +8,6 @@
 
 -🚀 My primary interests lie in inference, prompting strategies, and the practical applications of large language models.
 
--📫 Contact: [first name].[last name]@yahoo.com
+-📫 Contact: yahya.masri@yahoo.com
 
 -📄 More: LinkedIn.
