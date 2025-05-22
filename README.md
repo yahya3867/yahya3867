@@ -6,6 +6,8 @@
 
 -🎓 A.S. Degree in CS from Northern Virginia Community College.
 
+- 🚀 My primary interests lie in inference, prompting strategies, and the practical applications of large language models.
+
 -📫 Contact: [first name].[last name]@yahoo.com
 
 -📄 More: LinkedIn.
