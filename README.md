@@ -1,10 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d43a977-0987-47da-964f-394be1b6c7fa" alt="ASCII animation demo" />
+</p>
 
-- 📚 Junior CS Student at [George Mason University](https://www.gmu.edu/).
-- 🧑‍💻 Research Assistant at the [NSF Spatiotemporal Innovation Center](https://www.stcenter.net/).
-- 🎓 A.S. Degree in CS from [Northern Virginia Community College](https://www.nvcc.edu/).
-- 🚀 My primary interests lie in inference, prompting strategies, and the practical applications of large language models.
-- 📫 Contact: yahya.masri@yahoo.com
-- 📄 More: [LinkedIn](https://www.linkedin.com/in/yahya-masri)
 
-Personal Website: [yahyamasri.com](https://www.yahyamasri.com/)
+<p align="center">
+  <a href="https://yahyamasri.com">yahyamasri.com</a>
+</p>
